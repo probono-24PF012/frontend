@@ -10,7 +10,7 @@ export const JoinContainer = styled.div`
 
 export const BgWrapper = styled.div`
     width: 100%;
-    height: 67%;
+    height: 100%;
     position: absolute;
     top: 0;
     left: 0;
