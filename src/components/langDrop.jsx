@@ -1,7 +1,6 @@
 import { useEffect } from 'react';
 import styled from 'styled-components';
 
-// styled-component로 스타일을 정의합니다.
 const TranslateContainer = styled.div`
     /* Google에서 제공하는 번역 텍스트와 로고를 숨기는 스타일 */
     .goog-logo-link {
@@ -46,3 +45,5 @@ export default function LangDrop() {
 
     return <TranslateContainer id="google_translate_element" />;
 }
+
+//수정 필요
